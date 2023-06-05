@@ -1,6 +1,5 @@
-package com.mercadolivro.controller.reqeust
+package com.mercadolivro.controller.request
 
-import com.fasterxml.jackson.annotation.JsonAlias
 import java.math.BigDecimal
 
 class PutBookRequest (
